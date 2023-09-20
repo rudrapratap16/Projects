@@ -1,3 +1,7 @@
+#pip install sentence_transformers
+#pip install google
+#pip install numpy
+
 from sentence_transformers import SentenceTransformer, util
 import numpy as np
 import time
