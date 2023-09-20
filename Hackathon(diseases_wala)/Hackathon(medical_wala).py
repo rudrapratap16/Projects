@@ -8,7 +8,7 @@ except ImportError:
     print("No module named 'google' found")
  
 
-path = r"C:\Users\rudra\OneDrive\Desktop\disease_symptoms.json"
+path = r"disease_symptoms.json"
 array = list(open(path,'r'))
 something = list()
 i = 0
